@@ -1,7 +1,7 @@
 {
   "name": "ensure-close-terminal",
   "displayName": "ensure-close-terminal",
-  "description": "close all terminals while closing vscode",
+  "description": "close all terminals while closing vscode | 一个 vscode 插件，确保关闭 vscode 时自动退出所有进程",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
